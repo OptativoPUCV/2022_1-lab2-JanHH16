@@ -30,3 +30,8 @@ do., 20 de mar. de 2022 21:17:56:
  tests:  3|5
 total_score: 10/70
 d2a4596
+do., 20 de mar. de 2022 21:19:13: 
+ list.c | 4 ++++
+ 1 file changed, 4 insertions(+)
+ tests:  0|0
+f832aac
