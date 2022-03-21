@@ -94,6 +94,7 @@ void pushFront(List * list, void * data)
             list -> head = nuevoNodo;
             nuevoNodo -> next = list -> current -> next; 
         }
+        return NULL;
     }
 }
 
