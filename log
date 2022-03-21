@@ -174,3 +174,8 @@ do., 20 de mar. de 2022 22:23:20:
  tests:  9|3
 total_score: 35/70
 f1fe1c4
+do., 20 de mar. de 2022 22:26:02: 
+ list.c | 13 +++++--------
+ 1 file changed, 5 insertions(+), 8 deletions(-)
+ tests:  0|0
+c95668e
