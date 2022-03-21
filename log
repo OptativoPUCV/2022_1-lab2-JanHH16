@@ -91,3 +91,9 @@ do., 20 de mar. de 2022 21:57:55:
  tests:  7|4
 total_score: 25/70
 d0c014d
+do., 20 de mar. de 2022 22:00:16: 
+ list.c | 1 +
+ 1 file changed, 1 insertion(+)
+ tests:  7|4
+total_score: 25/70
+5b77c07
