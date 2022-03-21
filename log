@@ -156,3 +156,9 @@ list.c:83:6: note: declared here
 cc1.exe: all warnings being treated as errors
 Compilation failed
 4f1c5c4
+do., 20 de mar. de 2022 22:18:43: 
+ list.c | 2 --
+ 1 file changed, 2 deletions(-)
+ tests:  9|3
+total_score: 35/70
+9c2c4c6
