@@ -218,3 +218,14 @@ do., 20 de mar. de 2022 22:33:23:
  tests:  9|3
 total_score: 35/70
 d9a42ad
+do., 20 de mar. de 2022 22:36:45: 
+ list.c | 17 ++++++++++++++---
+ 1 file changed, 14 insertions(+), 3 deletions(-)
+In file included from test.c:5:0:
+list.c: In function 'pushCurrent':
+list.c:111:5: error: suggest parentheses around assignment used as truth value [-Werror=parentheses]
+     if(list -> head = NULL) list -> head = nuevoNodo;
+     ^~
+cc1.exe: all warnings being treated as errors
+Compilation failed
+80f2599
