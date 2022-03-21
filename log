@@ -50,3 +50,13 @@ do., 20 de mar. de 2022 21:22:17:
  1 file changed, 1 insertion(+), 5 deletions(-)
  tests:  0|0
 229ca76
+do., 20 de mar. de 2022 21:39:44: 
+ list.c | 11 ++++++++++-
+ 1 file changed, 10 insertions(+), 1 deletion(-)
+In file included from test.c:5:0:
+list.c: In function 'pushFront':
+list.c:91:1: error: expected ';' before '}' token
+ }
+ ^
+Compilation failed
+860de26
