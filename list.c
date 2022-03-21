@@ -97,8 +97,7 @@ void pushFront(List * list, void * data)
         {
             if(list -> tail == NULL)
             {
-                list -> head = nuevoNodo;
-                list -> tail = list -> head;
+                list -> tail = nuevoNodo;
             }
         }
     }
