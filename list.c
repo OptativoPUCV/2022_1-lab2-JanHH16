@@ -45,7 +45,7 @@ void * firstList(List * list)
         list -> current = list -> head;
         return list -> head -> data;
     }
-    return NULL;
+    return list;
 }
 
 void * nextList(List * list) 
@@ -55,7 +55,7 @@ void * nextList(List * list)
         list -> current = list -> current -> next;
         return list -> current -> data;
     }
-    return NULL;
+    return list;
 }
 
 void * lastList(List * list) 
@@ -65,7 +65,7 @@ void * lastList(List * list)
         list -> current = list -> tail;
         return list -> current -> data;
     }
-    return NULL;
+    return list;
 }
 
 void * prevList(List * list) 
@@ -75,7 +75,7 @@ void * prevList(List * list)
         list -> current = list -> tail -> prev;
         return list -> current -> data;
     }
-    return NULL;
+    return list;
 }
 
 void pushFront(List * list, void * data) {
