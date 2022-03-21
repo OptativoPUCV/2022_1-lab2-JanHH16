@@ -419,3 +419,17 @@ list.c:152:1: error: control reaches end of non-void function [-Werror=return-ty
 cc1.exe: all warnings being treated as errors
 Compilation failed
 21a7f6b
+do., 20 de mar. de 2022 23:29:52: 
+ list.c | 1 +
+ 1 file changed, 1 insertion(+)
+In file included from test.c:5:0:
+list.c: In function 'popCurrent':
+list.c:150:18: error: statement with no effect [-Werror=unused-value]
+     list->current->data;
+     ~~~~~~~~~~~~~^~~~~~
+list.c:153:1: error: control reaches end of non-void function [-Werror=return-type]
+ }
+ ^
+cc1.exe: all warnings being treated as errors
+Compilation failed
+4763dee

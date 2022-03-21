@@ -147,6 +147,7 @@ void * popCurrent(List * list)
         aux = aux -> next;
     }
     aux -> next = list -> current -> next;
+    list->current->data;
     free(list -> current);
     list -> current = list -> head;
 }
