@@ -179,3 +179,9 @@ do., 20 de mar. de 2022 22:26:02:
  1 file changed, 5 insertions(+), 8 deletions(-)
  tests:  0|0
 c95668e
+do., 20 de mar. de 2022 22:27:59: 
+ list.c | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+ tests:  9|3
+total_score: 35/70
+45e2b24
