@@ -8,3 +8,9 @@ do., 20 de mar. de 2022 20:56:20:
  tests:  1|5
 total_score: 10/70
 c31e250
+do., 20 de mar. de 2022 21:03:41: 
+ list.c | 6 +++++-
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+ tests:  2|5
+total_score: 15/70
+af38a05
