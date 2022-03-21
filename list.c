@@ -137,7 +137,7 @@ void * popCurrent(List * list)
 {
     Node *aux = list -> head;
     if(list -> current == list -> head) aux -> next = list -> current -> next;
-    
+    /*
     if(aux -> next != list -> current) aux -> next = list -> current -> next;
     else
     {
@@ -147,7 +147,7 @@ void * popCurrent(List * list)
         }
         aux -> next = list -> current -> next;
     }
-    
+    */
 }
 
 void cleanList(List * list) {
