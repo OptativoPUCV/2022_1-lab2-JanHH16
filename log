@@ -60,3 +60,8 @@ list.c:91:1: error: expected ';' before '}' token
  ^
 Compilation failed
 860de26
+do., 20 de mar. de 2022 21:40:06: 
+ list.c | 3 +--
+ 1 file changed, 1 insertion(+), 2 deletions(-)
+ tests:  0|0
+142d016
