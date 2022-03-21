@@ -40,3 +40,8 @@ do., 20 de mar. de 2022 21:20:57:
  1 file changed, 4 insertions(+), 4 deletions(-)
  tests:  0|0
 b7adee4
+do., 20 de mar. de 2022 21:21:38: 
+ list.c | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+ tests:  0|0
+f427f8f
