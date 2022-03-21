@@ -342,3 +342,14 @@ list.c:144:1: error: control reaches end of non-void function [-Werror=return-ty
 cc1.exe: all warnings being treated as errors
 Compilation failed
 8bc734a
+do., 20 de mar. de 2022 23:18:59: 
+ list.c | 5 +++++
+ 1 file changed, 5 insertions(+)
+In file included from test.c:5:0:
+list.c: In function 'popCurrent':
+list.c:149:1: error: control reaches end of non-void function [-Werror=return-type]
+ }
+ ^
+cc1.exe: all warnings being treated as errors
+Compilation failed
+ec7a64f
